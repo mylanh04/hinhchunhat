@@ -1,3 +1,4 @@
 ta co hcn
 ta co hv
 ta tu remote
+ta tu local
