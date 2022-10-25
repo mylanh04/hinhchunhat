@@ -4,5 +4,6 @@ ta tu remote
 ta tu local
 ta tu remote 2
 ta tu local
-ta tu local 2
+ta tu local 
+chu vi hinh chu nhat = (dai + rong )*2
 
