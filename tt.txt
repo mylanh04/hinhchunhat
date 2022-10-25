@@ -5,4 +5,4 @@ ta tu local
 ta tu remote 2
 ta tu local
 ta tu local 2
-
+chu vi hinh chu nhat bang dai nhan rong
