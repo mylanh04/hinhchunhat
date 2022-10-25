@@ -5,5 +5,5 @@ ta tu local
 ta tu remote 2
 ta tu local 2
 chu vi hinh chu nhat = (dai + rong )*2
-dientichhinhchunhat = (dai+ rong )*2
+dien tich hinh chu nhat = dai * rong
 
